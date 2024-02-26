@@ -1,0 +1,1 @@
+OpenCv ile yapılan bu uygulamada kameradan aldığımız görüntüler arasında farklılıkları gösteriyoruz.
