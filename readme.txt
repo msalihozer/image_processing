@@ -10,12 +10,10 @@ OpenCV (cv2) library
 Installation
 Ensure you have Python 3.x installed on your system.
 Install the OpenCV library:
-Copy code
 pip install opencv-python
 Usage
 Connect a camera to your system.
 Run the script:
-Copy code
 python difference_between.py
 The script will open two windows:
 "Hareket Penceresi 1": Displays the first captured image.
